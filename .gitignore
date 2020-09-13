@@ -1,1 +1,3 @@
 _build/doctrees
+.DS_Store
+doc/doctrees
